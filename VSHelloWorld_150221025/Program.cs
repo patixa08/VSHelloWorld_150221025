@@ -10,7 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace VSHelloWorld_150221025
 {
-    //Joao Garcia
+    //Miguel
     public class Program
     {
         public static void Main(string[] args)
